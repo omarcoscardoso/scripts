@@ -1,2 +1,2 @@
 # scripts
-Tentativas com Shell Script
+Repositório com tentativas em Shell Script para resolver problemas casuais
